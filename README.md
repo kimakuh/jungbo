@@ -5,7 +5,7 @@
 > - 나. 구현부가 변경되어도 변경의 영향을 최소화 활 수 있다.
 > - 다. 정보 은닉(Information Hiding)이라고 한다.
 
-- 캡슐화(Encapsulation)
+- ✅ 캡슐화(Encapsulation)
 
 > 어플리케이션 개발 모델 유형에서 MVC 개념과 장점을 설명하시오.
 
